@@ -1,3 +1,3 @@
-<script>
-      $(document).foundation();
-    </script>
+/* My Scripts */
+
+$(document).foundation();
